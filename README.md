@@ -30,3 +30,7 @@ For the sample with the highest accuracy, a convergence graph of accuracy vs. it
 <h2> Resultant table: </h2>
 
 ![image](https://github.com/user-attachments/assets/b6a5dfd7-eca9-4768-ac22-f791967e72f5)
+
+<h2> Resultant graph: </h2>
+![image](https://github.com/user-attachments/assets/55bf5bc1-aabb-4532-83a4-866ee765225d)
+
